@@ -1,9 +1,0 @@
-; ermaccer mugenhook - variations
-; Format:
-; a - Row
-; b - Column
-; c - Variations Number
-; d[c range] - Next Character IDs
-;
-;
-0 0 1 0
